@@ -64,7 +64,7 @@ function JoinCommunity() {
 
         <div className="flex  items-center justify-center ">
           <p className="text-center font-dream2  font-bold">
-            All rights reserved | by KittyWif 2023
+            All rights reserved | by KittyWif 2024
           </p>
         </div>
       </div>

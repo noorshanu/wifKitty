@@ -23,7 +23,7 @@ function Navbar() {
             Home
             </Link>
             <a
-            href="https://t.me/KittyWif_s"
+            href="https://t.me/kittywifs"
             target="_blank"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm sm:text-xl font-dream2"
@@ -49,7 +49,7 @@ function Navbar() {
           </button>
 
           <div className="items-center justify-evenly text-base font-medium text-black hidden lg:flex">
-            <a href="https://twitter.com/Sol_Kitty_" target="_blank"
+            <a href="https://twitter.com/kitty_wif" target="_blank"
               to="roadmap"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm sm:text-xl font-dream2"
@@ -89,12 +89,20 @@ function Navbar() {
             HOME
           </Link>
           <a
-           href="https://t.me/KittyWif_s"
+           href="https://t.me/kittywifs"
             onClick={() => setSidebarOpen(false)}
             className="cursor-pointer text-sm xl:text-base"
           >
           Telegram
           </a>
+          <a
+           href="https://twitter.com/kitty_wif"
+            onClick={() => setSidebarOpen(false)}
+            className="cursor-pointer text-sm xl:text-base"
+          >
+       Twitter
+          </a>
+
           <Link
             to="roadmap"
             onClick={() => setSidebarOpen(false)}

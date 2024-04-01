@@ -66,7 +66,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://t.me/KittyWif_s"
+            href="https://t.me/kittywifs"
             target="_blank"
             className=" font-bold text-sm sm:text-2xl font-dream2 bg-[#fff] border-2 rounded-3xl py-1 px-4  "
           >
