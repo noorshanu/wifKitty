@@ -18,21 +18,17 @@ function About() {
             WHAT IS KittyWif ?
           </Title>
 
-          <p
-            className="font-daughter text-base sm:text-xl font-medium max-w-full text-white sm:max-w-3xl mx-auto "
-         
-          >
-            Enter the magical world of KittyWif, where memes meet crypto in a
-            delightful fusion of cuteness and moon-worthy adventures! Inspired
-            by the beloved Hello Kitty, KittyWif brings joy to the world of Solana
-            with playful memes and adorable adventures.
+          <p className="font-daughter text-base sm:text-xl font-medium max-w-full text-white sm:max-w-3xl mx-auto ">
+            Dive into KittyWif, the meme coin realm where cats wear hats and
+            giggles reign supreme. Born from the web's love for quirky felines,
+            KittyWif is the crypto twist for those who dare to dream and laugh.
+            
           </p>
 
-          <p
-            className="font-daughter text-base sm:text-xl font-medium max-w-full text-white sm:max-w-3xl mx-auto "
-         
-          >
-           In the whimsical realm of KittyWif, meme creation takes center stage as KittyWif frolics alongside her friend MIMMY, baking cookies and spreading joy with every meme shared. Inspired by Hello Kitty's bright nature, KittyWif aims to bring smiles to the faces of crypto enthusiasts everywhere.
+          <p className="font-daughter text-base sm:text-xl font-medium max-w-full text-white sm:max-w-3xl mx-auto ">
+          It's more than a meme; it's a journey into a world where fun leads
+            the way. Join the laughter-fueled adventure with KittyWif, where
+            every transaction is a step into a lighter, brighter digital domain.
           </p>
         </div>
 
