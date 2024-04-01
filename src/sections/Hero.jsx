@@ -58,7 +58,7 @@ function Hero() {
         </a>
         <div className="   flex  justify-center gap-6 mt-7 sm:mt-2">
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/AXWB5Rr9xDa7SJXc9WLbH3VbYcmFkFoK6Ymikv1ZzPox?t=1711964834998"
+            href="https://www.dextools.io/app/en/solana/pair-explorer/B9ChTyY3u6ArAea3yzRu5nvEc3ur2hKMaXSE7Aozzuu9?t=1711964830014"
             target="_blank"
             className=" bg-[#fff] border-2 rounded-3xl py-1 px-4  font-bold text-sm sm:text-2xl font-dream2 "
           >
